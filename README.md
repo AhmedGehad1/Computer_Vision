@@ -1,2 +1,5 @@
 # Computer_Vision
-Canny_Edge Hough_Line Corner_Detection
+ A Desktop application that provide various computer vision tools like:
+ - Canny_Edge 
+ - Corner_Detection
+ - Hough_Line
