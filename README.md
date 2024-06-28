@@ -10,4 +10,12 @@
   ![WhatsApp Image 2024-06-28 at 11 08 22 PM](https://github.com/AhmedGehad1/Computer_Vision/assets/125567504/5c2c666c-0bb2-4a6c-8c4b-3d79c13f9c02)
   ![WhatsApp Image 2024-06-28 at 11 08 21 PM](https://github.com/AhmedGehad1/Computer_Vision/assets/125567504/b5b7987c-ff33-416f-af2f-00bac344e441)
 
+### Video of UI
+https://github.com/AhmedGehad1/Computer_Vision/assets/125567504/c492b8b9-e4d6-40a0-968b-723a34d34a28
+
+
+
+
+
+
 
